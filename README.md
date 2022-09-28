@@ -7,12 +7,12 @@
 
 # About me
 
-My name is Luis Eduardo AKA Nadachi, I currently live in Brazil and coursing Computer Science, today I'm working in role of back end developer, my stack is Laravel e VueJS but I've already studied others languages, like elixir and ruby.
+My name is Luis Eduardo AKA Nadachi, I currently live in Brazil and course Computer Science. Today I work in the role of back end developer, my stack is Laravel but I've already studied others languages, like elixir and ruby.
 
-# Personal Stuffs
+# Personal Stuff
 
- + I'm moderator of [Danielhe4rt](https://twitch.tv/danielhe4rt).
- + In my spare time, I contribuing to [He4rtDevs](https://heartdevs.com/) open source projects and playing games in my PC.
+ + I'm [Danielhe4rt's](https://twitch.tv/danielhe4rt) moderator on Twitch.
+ + In my free time, I contribute to [He4rtDevs](https://heartdevs.com/) open source projects and play games in my PC.
  + I make great playlists in spotify.
 
 # Technologies and Tools
